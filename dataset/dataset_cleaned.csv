@@ -37,39 +37,39 @@ sometimes the hardest moments shape who you become,motivational,emotional,quotes
 it hurts to let go but sometimes it is necessary to grow,motivational,emotional,quotes_dataset
 memories can bring both happiness and pain at the same time,motivational,emotional,quotes_dataset
 the silence often says more than words ever could,motivational,emotional,quotes_dataset
-the sunset painted the sky with shades of orange and gold,description,descriptive,generated_refined
-the room was filled with soft light and quiet warmth,description,descriptive,generated_refined
-the city streets were crowded and full of energy,description,descriptive,generated_refined
-the mountain stood tall covered in mist and clouds,description,descriptive,generated_refined
-the ocean waves moved gently under the bright sky,description,descriptive,generated_refined
+the sunset painted the sky with shades of orange and gold,description,descriptive,generated
+the room was filled with soft light and quiet warmth,description,descriptive,generated
+the city streets were crowded and full of energy,description,descriptive,generated
+the mountain stood tall covered in mist and clouds,description,descriptive,generated
+the ocean waves moved gently under the bright sky,description,descriptive,generated
 hello how are you doing today,conversational,casual,conversation_dataset
 i think you should take a break and relax for a while,advice,casual,conversation_dataset
 that sounds like a really good idea to me,conversational,casual,conversation_dataset
 i understand how you feel it can be tough sometimes,conversational,emotional,conversation_dataset
 let me know if you need any help with that,conversational,casual,conversation_dataset
-artificial intelligence allows machines to learn from data,informational,formal,wikipedia_refined
-machine learning is a method of improving performance using experience,informational,formal,wikipedia_refined
-data science involves analyzing data to extract useful insights,informational,formal,wikipedia_refined
-neural networks are inspired by the structure of the human brain,explanation,formal,wikipedia_refined
-algorithms are step by step procedures used to solve problems,explanation,formal,wikipedia_refined
-a database is a system used to store and manage information,informational,formal,wikipedia_refined
-cloud computing allows access to data and services over the internet,informational,formal,wikipedia_refined
-programming languages are used to communicate instructions to computers,explanation,formal,wikipedia_refined
+artificial intelligence allows machines to learn from data,informational,formal,wikipedia
+machine learning is a method of improving performance using experience,informational,formal,wikipedia
+data science involves analyzing data to extract useful insights,informational,formal,wikipedia
+neural networks are inspired by the structure of the human brain,explanation,formal,wikipedia
+algorithms are step by step procedures used to solve problems,explanation,formal,wikipedia
+a database is a system used to store and manage information,informational,formal,wikipedia
+cloud computing allows access to data and services over the internet,informational,formal,wikipedia
+programming languages are used to communicate instructions to computers,explanation,formal,wikipedia
 oh great another meeting that could have been an email,conversational,sarcastic,conversation_dataset
 i absolutely love waiting in long lines it is my favorite activity,conversational,sarcastic,conversation_dataset
 nothing feels better than your phone dying in the middle of something important,conversational,sarcastic,conversation_dataset
 sure because everything always goes exactly as planned,conversational,sarcastic,conversation_dataset
 what a surprise things did not work out the way you expected,conversational,sarcastic,conversation_dataset
-discipline is more important than motivation when working towards goals,advice,serious,self_help_blog
-success requires consistent effort and patience over time,motivational,serious,self_help_blog
-failing is part of learning and should not be feared,motivational,serious,self_help_blog
-time management is essential for achieving productivity,advice,serious,self_help_blog
-setting clear goals helps in maintaining focus and direction,advice,serious,self_help_blog
-the rain fell steadily creating a calm and peaceful atmosphere,description,descriptive,generated_refined
-the forest was dense with tall trees and hidden paths,description,descriptive,generated_refined
-the night sky was filled with countless shining stars,description,descriptive,generated_refined
-the air felt cold and fresh as the wind moved gently,description,descriptive,generated_refined
-the old house stood quietly with a mysterious presence,description,descriptive,generated_refined
+discipline is more important than motivation when working towards goals,advice,serious,self_help
+success requires consistent effort and patience over time,motivational,serious,self_help
+failing is part of learning and should not be feared,motivational,serious,self_help
+time management is essential for achieving productivity,advice,serious,self_help
+setting clear goals helps in maintaining focus and direction,advice,serious,self_help
+the rain fell steadily creating a calm and peaceful atmosphere,description,descriptive,generated
+the forest was dense with tall trees and hidden paths,description,descriptive,generated
+the night sky was filled with countless shining stars,description,descriptive,generated
+the air felt cold and fresh as the wind moved gently,description,descriptive,generated
+the old house stood quietly with a mysterious presence,description,descriptive,generated
 sometimes life feels heavy and difficult to carry,motivational,emotional,quotes_dataset
 there are days when everything seems to fall apart,motivational,emotional,quotes_dataset
 holding on can be harder than letting go,motivational,emotional,quotes_dataset
@@ -80,11 +80,11 @@ what do you call a sleeping bull a bulldozer,joke,funny,joke_dataset
 why did the coffee file a police report it got mugged,joke,funny,joke_dataset
 what do you call a fish wearing a bowtie sofishticated,joke,funny,joke_dataset
 why did the golfer bring two pairs of pants in case he got a hole in one,joke,funny,joke_dataset
-information technology involves the use of computers to manage data,informational,formal,wikipedia_refined
-software development is the process of creating applications and systems,informational,formal,wikipedia_refined
-databases store organized information for easy retrieval,informational,formal,wikipedia_refined
-cybersecurity focuses on protecting systems from digital attacks,informational,formal,wikipedia_refined
-networks allow devices to communicate and share resources,informational,formal,wikipedia_refined
+information technology involves the use of computers to manage data,informational,formal,wikipedia
+software development is the process of creating applications and systems,informational,formal,wikipedia
+databases store organized information for easy retrieval,informational,formal,wikipedia
+cybersecurity focuses on protecting systems from digital attacks,informational,formal,wikipedia
+networks allow devices to communicate and share resources,informational,formal,wikipedia
 once upon a time a boy found a hidden path that changed his life,story,emotional,generated
 a traveler wandered through the desert searching for meaning,story,serious,generated
 the old man told stories of a world long forgotten,story,descriptive,generated
